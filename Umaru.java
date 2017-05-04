@@ -9,6 +9,8 @@ public class Umaru {
 public static void main(String[] args){
 
 System.out.println("This is just to test github");
+System.out.println("This is Umaru's name");
+
 
 }
 }
