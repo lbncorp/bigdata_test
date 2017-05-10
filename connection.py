@@ -47,7 +47,7 @@ msg = magic + command + length + check + payload
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-HOST = "83.143.130.10"
+HOST = "0.0.0.0"
 PORT =  8333
 
 s.connect((HOST, PORT))
